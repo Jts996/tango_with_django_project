@@ -16,7 +16,7 @@ def populate():
          'url': 'http://www.greenteapress.com/thinkpython/',
          'views': 50},
         {'title': 'Learn Python in 10 Minutes',
-         'url': 'http://www.korokithakis.net/titorials/python/',
+         'url': 'http://www.korokithakis.net/tutorials/python/',
          'views': 1000}
     ]
 
